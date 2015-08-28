@@ -21,3 +21,12 @@ to come up with an approach to handle these cases.<br />
 • Handles some other common sink and source statements to detect XSS injection and Command
 injection.<br />
  
+## References
+[1] https://github.com/nikic/PHP-Parser <br />
+[2] Jovanovic, Nenad, Christopher Kruegel, and Engin Kirda. "Pixy: A static analysis tool for
+detecting web application vulnerabilities." Security and Privacy, 2006 IEEE Symposium on.
+IEEE, 2006. <br />
+[3] Athanasopoulos, Elias, Antonis Krithinakis, and Evangelos P. Markatos. "Hunting Cross-
+Site Scripting Attacks in the Network." workshop of Web. Vol. 2. 2010. <br />
+[4] Doupé, Adam, et al. "Enemy of the State: A State-Aware Black-Box Web Vulnerability
+Scanner." USENIX Security Symposium. 2012. <br />
